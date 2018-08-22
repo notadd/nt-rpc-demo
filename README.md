@@ -8,6 +8,13 @@ Notadd 微服务示例
 
 `Notadd Application` 仓库地址： [Notadd](https://github.com/notadd/notadd)
 
+### 安装依赖
+
+```bash
+# yarn install
+$ yarn install
+```
+
 ### 启动
 
 ```bash
