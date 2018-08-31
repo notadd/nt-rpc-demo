@@ -19,7 +19,7 @@
         "@nestjs/core": "^5.2.2",
         "@nestjs/microservices": "^5.2.2",
         "grpc": "^1.14.1",
-        "rxjs": "^6.2.2",
+        "rxjs": "6.2.2",
         "typeorm": "^0.2.7",
         "typescript": "^3.0.1"
     },
