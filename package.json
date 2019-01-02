@@ -20,7 +20,7 @@
         "@nestjs/microservices": "^5.3.6",
         "grpc": "^1.14.2",
         "rxjs": "^6.3.2",
-        "typeorm": "^0.2.7",
+        "typeorm": "^0.2.10",
         "typescript": "^3.0.1"
     },
     "devDependencies": {
