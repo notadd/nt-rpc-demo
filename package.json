@@ -17,26 +17,26 @@
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
-    "@grpc/proto-loader": "^0.3.0",
-    "@nestjs/common": "^5.5.0",
-    "@nestjs/core": "^5.5.0",
-    "@nestjs/microservices": "^5.5.0",
-    "grpc": "^1.17.0",
-    "rxjs": "^6.3.3",
-    "typeorm": "^0.2.15",
-    "typescript": "^3.2.2",
-    "snyk": "^1.161.1"
+    "@grpc/proto-loader": "0.3.0",
+    "@nestjs/common": "5.5.0",
+    "@nestjs/core": "5.5.0",
+    "@nestjs/microservices": "5.5.0",
+    "grpc": "1.17.0",
+    "rxjs": "6.3.3",
+    "typeorm": "0.2.17",
+    "typescript": "3.2.2",
+    "snyk": "1.163.3"
   },
   "devDependencies": {
-    "@nestjs/testing": "^5.5.0",
-    "@types/jest": "^23.3.11",
-    "@types/node": "^10.12.18",
-    "jest": "^23.6.0",
-    "nodemon": "^1.18.9",
-    "ts-jest": "^23.10.5",
-    "ts-node": "^7.0.0",
-    "tsconfig-paths": "^3.7.0",
-    "tslint": "^5.12.0"
+    "@nestjs/testing": "5.5.0",
+    "@types/jest": "23.3.11",
+    "@types/node": "10.12.18",
+    "jest": "23.6.0",
+    "nodemon": "1.18.9",
+    "ts-jest": "23.10.5",
+    "ts-node": "7.0.1",
+    "tsconfig-paths": "3.7.0",
+    "tslint": "5.12.0"
   },
   "jest": {
     "moduleFileExtensions": [
